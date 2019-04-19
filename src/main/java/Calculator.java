@@ -1,6 +1,7 @@
 /**
  * @author Vladimir Tsypaev
  */
+
 class Calculator {
 
     int sum(int a, int b) {
